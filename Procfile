@@ -1,0 +1,1 @@
+web: gunicorn ashiq_courier_server.wsgi
