@@ -1,0 +1,12 @@
+.brand-nav{
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.link-nav{
+    font-weight: 600;
+    color: #252222 !important;
+}
+.link-nav:hover{
+    color: blue !important;
+}

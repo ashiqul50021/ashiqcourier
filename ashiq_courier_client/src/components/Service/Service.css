@@ -1,0 +1,9 @@
+.img-card{
+    width: 40%;
+    height: 100%;
+    margin: auto;
+};
+.headline {
+    font-size: 30px !important;
+    color: #3d3b84 !important;
+}

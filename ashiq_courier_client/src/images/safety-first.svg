@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 11@2x</title>
+    <g id="Wireframe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="redx-C2C-homepage-expand" transform="translate(-234.000000, -745.000000)" stroke-width="3">
+            <g id="Group-11" transform="translate(235.000000, 746.000000)">
+                <path d="M49.84,34.0502 L49.84,8.1102 L49.77,8.1102 C43.91,8.1102 33.52,7.0502 25.17,0.5002 C16.81,7.0502 6.42,8.1102 0.56,8.1102 L0.5,8.1102 L0.5,34.5702 C0.5,46.3202 16.9,56.7802 25.16,60.8202 C27.68,59.5802 30.97,57.7402 34.31,55.4502" id="Stroke-1" stroke="#000000"></path>
+                <path d="M69.4977,51.7328 C69.4977,61.5318 61.5257,69.5038 51.7267,69.5038 C41.0567,69.5038 33.1577,60.2528 34.0017,50.5708 C34.5967,41.2518 42.3817,33.9498 51.7267,33.9498 C61.7777,33.9498 69.4977,42.1908 69.4977,51.7328 Z" id="Stroke-3" stroke="#EB2127"></path>
+                <polyline id="Stroke-5" stroke="#EB2127" points="45.8429 52.3217 49.2219 55.9127 57.5939 47.5407"></polyline>
+                <line x1="17.5626" y1="28.1606" x2="32.7716" y2="28.1606" id="Stroke-7" stroke="#000000"></line>
+                <line x1="25.1671" y1="20.5561" x2="25.1671" y2="35.7651" id="Stroke-9" stroke="#000000"></line>
+            </g>
+        </g>
+    </g>
+</svg>

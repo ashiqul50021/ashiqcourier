@@ -1,0 +1,27 @@
+.left-side{
+    margin-top: 130px;
+    font-weight: 900;
+    color: #36295F
+};
+.position p{
+    color: #36295F !important;
+}
+/* .position{
+    margin-left: 20px;
+} */
+
+.btn-style{
+background-color: #36295F;
+text-decoration: none;
+color: white;
+margin: 4px 2px;
+border: none;
+padding: 12px;
+display: inline-block;
+border-radius: 12px;
+}
+
+.btn-style:hover{
+    background-color: rgb(104, 30, 173);
+    color: white;
+}
